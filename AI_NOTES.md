@@ -2,7 +2,7 @@
 
 ## 1. Which parts of the code were AI-generated vs. written by me
 
-I used ChatGPT to help generate the initial FastAPI project structure, API endpoints, Pydantic models, test cases, README, and documentation. I reviewed the generated code, understood how each component worked, and integrated it into the final solution.
+I used ChatGPT to help generate the initial FastAPI project structure, API endpoints, Pydantic models, test cases, README, and documentation. I reviewed, understood, and verified the generated code before integrating it into the final solution.
 
 ## 2. What I validated, tested, or changed, and why
 
